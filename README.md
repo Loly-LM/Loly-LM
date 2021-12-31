@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Loly-LM
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning UE4
-- 💞️ I’m looking to collaborate on UE4
+- 🌱 I’m currently learning Python, Unity
+- 💞️ I’m looking to collaborate on Unity,C#,Python
 - 📫 How to reach me murtaza4613@gmail.com
 
 <!---
